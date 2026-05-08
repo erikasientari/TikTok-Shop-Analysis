@@ -17,7 +17,7 @@ This project analyzes TikTok Shop transaction data using Python and Tableau to i
 
 - tiktokshop_presentation.pdf
 - tableau_charts.pdf
-- Dashboard.jpg
+- Dashboard.png
 - data_cleaning.ipynb
 - data_analysis.ipynb
 
@@ -29,7 +29,7 @@ This project analyzes TikTok Shop transaction data using Python and Tableau to i
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.png)
 
 ## 📄 Reports
 - [TikTok Shop Presentation](tiktokshop_presentation.pdf)
