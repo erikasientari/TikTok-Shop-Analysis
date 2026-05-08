@@ -20,6 +20,7 @@ This project analyzes TikTok Shop transaction data using Python and Tableau to i
 - Dashboard.png
 - data_cleaning.ipynb
 - data_analysis.ipynb
+- tiktok_sql_analysis.sql
 
 ## 📊 Key Insights
 - Fashion category generated the highest revenue
