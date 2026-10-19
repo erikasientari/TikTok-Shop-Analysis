@@ -1,8 +1,6 @@
 # TikTok-Shop-Sales-Analysis
 E-commerce sales analysis using SQL, Python, and Tableau.
 
-## TikTok Shop Sales Analysis
-
 ## Project Overview
 This project analyzes TikTok Shop transaction data using Python and Tableau to identify sales performance, customer behavior, and cancellation trends.
 
