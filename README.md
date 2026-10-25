@@ -31,6 +31,7 @@ This project analyzes TikTok Shop transaction data using Python and Tableau to i
 ![Dashboard](Dashboard.png)
 
 ## Reports
+- [TikTok Shop Bericht (DE)] (tiktokshop_DE.pdf) 
 - [TikTok Shop Presentation](tiktokshop_presentation.pdf)
 - [Tableau Charts](tableau_charts.pdf)
 
